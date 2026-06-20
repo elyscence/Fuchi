@@ -8,7 +8,7 @@ The name comes from Japanese 淵 — a deep pool where you can't see the bottom.
 
 Fuchi boots on x86_64 hardware and QEMU, writes directly to VGA memory, and runs without any runtime or OS support. Built to understand what actually happens before `main()`.
 
-Inspired by [Asahi Linux](https://asahilinux.org) and [Zinnia](https://github.com/zinnia-kernel/zinnia).
+Inspired by [Asahi Linux](https://asahilinux.org) and [Zinnia](https://github.com/zinnia-os/zinnia).
 
 ## Running
 
